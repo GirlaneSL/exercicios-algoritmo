@@ -1,6 +1,4 @@
 algoritmo "Exercício-10"
-//  
-//  
 var
    l, al, a, t: real
 inicio
