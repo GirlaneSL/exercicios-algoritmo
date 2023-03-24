@@ -1,8 +1,10 @@
 algoritmo "Exercício-10"
+//  
+//  
 var
    l, al, a, t: real
 inicio
-   Escreva("Largura da  parede: ")
+   Escreva("Largura da parede: ")
    Leia(l)
    Escreva("Altura da parede: ")
    Leia(al)
